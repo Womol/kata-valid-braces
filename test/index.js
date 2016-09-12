@@ -1,4 +1,5 @@
 const validBraces = require('../lib/index')
+// const validBraces = require('../lib/clever')
 
 describe('validBraces', () => {
   it('()', () => {
